@@ -1,0 +1,19 @@
+.item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: white;
+    border: 1px solid gray;
+    width: 300px;
+}
+
+.friend-avatar {
+    border-radius: 0%;
+    margin: 0px 10px;
+}
+
+.status {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}

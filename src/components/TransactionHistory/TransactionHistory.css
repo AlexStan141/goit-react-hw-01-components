@@ -1,0 +1,29 @@
+table {
+    border-collapse: collapse;
+    margin-bottom: 50px;
+}
+
+tr {
+    width: 600px;
+}
+
+th,
+td {
+    width: 200px;
+    height: 50px;
+    text-align: center;
+}
+
+th {
+    border: 1px solid white;
+    background-color: blue;
+    text-transform: uppercase;
+    color: white;
+}
+
+td {
+    border: 1px solid gray;
+    background-color: white;
+    text-transform: capitalize;
+    color: gray;
+}
